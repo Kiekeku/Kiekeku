@@ -1,6 +1,6 @@
 # Hi, I’m Justin Hoang
 
-I’m a third-year Computer Science co-op student at UBC. I enjoy building backend services, data pipelines, and tools that turn algorithms into useful software. I’m interested in data infrastructure, developer tooling, and applied machine learning.
+I’m a Computer Science student at UBC. I enjoy building backend services, data pipelines, and tools that turn algorithms into useful software. I’m interested in data infrastructure, developer tooling, and applied machine learning.
 
 ## Selected projects
 
